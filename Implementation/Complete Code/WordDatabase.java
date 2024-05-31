@@ -13,7 +13,6 @@ public class WordDatabase {
     }
 
     private void loadWords() {
-        // Add at least 10 words to the list
         words.add("komputer");
         words.add("zamek");
         words.add("lampa");
