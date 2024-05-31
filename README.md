@@ -4,7 +4,9 @@
 
 1. [Opis projektu](#opis-projektu)
 2. [Funkcjonalności](#funkcjonalności)
+3. [Instrukcje obsługi](#instrukcje-obsługi)
 
+   
 ## Opis projektu
 
 Gra w wisielca to aplikacja implementująca popularną grę w wisielca z graficznym interfejsem użytkownika. 
