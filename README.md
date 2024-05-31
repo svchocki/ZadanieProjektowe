@@ -16,3 +16,9 @@ Gra w wisielca to aplikacja implementująca popularną grę w wisielca z graficz
 - Możliwość wyboru poziomu trudności (łatwy, średni, trudny)
 - Dostęp do statystyk (ilość zwycięstw, porażek, po ilu próbach)
 - Graficzny interfejs użytkownika
+
+## Instrukcje obsługi
+
+1. Sklonuj repozytorium:
+   ```sh
+   git clone <repo-url>
