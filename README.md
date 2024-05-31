@@ -4,8 +4,6 @@
 
 1. [Opis projektu](#opis-projektu)
 2. [Funkcjonalności](#funkcjonalności)
-3. [Instrukcje obsługi](#instrukcje-obsługi)
-4. [Dane wejściowe](#dane-wejściowe)
 
 ## Opis projektu
 
